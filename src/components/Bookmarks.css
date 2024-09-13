@@ -1,0 +1,14 @@
+
+.bookmarks-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .bookmarks-container p {
+    font-size: 18px;
+    color: #888;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
